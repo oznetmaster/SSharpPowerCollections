@@ -57,10 +57,6 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <Private>False</Private>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms.cs" />
@@ -98,9 +94,9 @@
         <ProgramIdTag>SSharpPowerCollections</ProgramIdTag>
         <SystemName>SSharpPowerCollections</SystemName>
         <Programmer />
-        <ArchiveFilename>C:\Projects\Crestron\Simpl# Libraries\SSharpPowerCollections\SSharpPowerCollections\bin\SSharpPowerCollections.clz</ArchiveFilename>
+        <ArchiveFilename>C:\Projects\Crestron\Simpl# Libraries\SSharpPowerCollections\SSharpPowerCollections\bin\Release\SSharpPowerCollections.clz</ArchiveFilename>
         <MinFirmwareVersion>1.007.0017</MinFirmwareVersion>
-        <CompiledOn>10/15/2014 9:50:05 AM</CompiledOn>
+        <CompiledOn>1/4/2015 10:05:18 AM</CompiledOn>
         <AdditionalInfo />
         <EmbedSourceArchive>False</EmbedSourceArchive>
         <CopyTo>
